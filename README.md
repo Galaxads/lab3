@@ -36,7 +36,8 @@
 
 6)Скачайте и добавьте в SQL_скрипт один из предложенных файлов
 
-![image](https://user-images.githubusercontent.com/114816670/198820840-6a929474-5b28-4e3b-8429-f40915787c3d.png)
+![image](https://user-images.githubusercontent.com/114816670/198822522-556076aa-8cbb-4963-97e2-2a951971c72f.png)
+
 
 
 7)Нажмите на выполнение скрипта
@@ -46,7 +47,8 @@
 
 8)Обновите базу данных и откройте ее
 
-![image](https://user-images.githubusercontent.com/114816670/198820956-2ca4e4db-9ff5-427e-abbf-b02bc44b24ef.png)
+![image](https://user-images.githubusercontent.com/114816670/198822545-f77ce338-d50f-495a-9471-410d636ee0d8.png)
+
 
 # Контакты 
 
